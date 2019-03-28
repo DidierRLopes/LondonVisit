@@ -22,7 +22,7 @@ Disclaimer: I did not know how to use Google API (neither wanted to pay for a ke
 
 Note: GPS coordinates (latitude, longitude) have degrees has units, thus, explaining why the conversion to UTM coordinates, which uses meters.
 
-Immediately below you can see the result for 2, 3 and 4 days.
+Immediately below you can see the result of a visit to London for 2, 3 and 4 days, respectively.
 
 <img width="937" alt="London_2days" src="https://user-images.githubusercontent.com/25267873/55185984-6f3cb980-518d-11e9-9910-2d78f1c084fb.png">
 
