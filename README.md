@@ -21,3 +21,11 @@ Nonetheless, I think this is a funny exercise, and if I were to select the areas
 Disclaimer: I did not know how to use Google API (neither wanted to pay for a key to be fair) hence I just took a screenshot of google maps and wrote down the coordinate of the lower left corner, so that I could use it as my origin. I also took the right top corner coordinate so that I could give the map with an “accurate” scaling. 
 
 Note: GPS coordinates (latitude, longitude) have degrees has units, thus, explaining why the conversion to UTM coordinates, which uses meters.
+
+Immediately below you can see the result for 2, 3 and 4 days.
+
+<img width="937" alt="London_2days" src="https://user-images.githubusercontent.com/25267873/55185984-6f3cb980-518d-11e9-9910-2d78f1c084fb.png">
+
+<img width="935" alt="London_3days" src="https://user-images.githubusercontent.com/25267873/55185995-72d04080-518d-11e9-9fe6-b1aca46f5cfb.png">
+
+<img width="941" alt="London_4days" src="https://user-images.githubusercontent.com/25267873/55186006-7663c780-518d-11e9-9401-af2f65fdbc35.png">
