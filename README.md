@@ -1,4 +1,4 @@
-# londonVIsit
+# londonVisit
 
 This repository aims to decide which attractions to visit in London as a function of the number of days that you will be visiting, by applying K-means algorithm.
 
